@@ -2,7 +2,7 @@
   "name": "cortana",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http:/lajoya7.github.io/Cortana",
+  "homepage": ".",
   "dependencies": {
     "@auth0/auth0-react": "^2.3.0",
     "@emotion/react": "^11.14.0",
