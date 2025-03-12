@@ -13,7 +13,7 @@ root.render(
     domain="lajoya.us.auth0.com"
     clientId="xRj66gpsyXJ9wW0UBR4nY7HtIwpe3ymd"
     authorizationParams={{
-      redirect_uri: window.location.origin,
+      redirect_uri: "http://localhost:3000/",
     }}
   >
 
