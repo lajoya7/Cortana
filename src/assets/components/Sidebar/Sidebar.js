@@ -17,7 +17,7 @@ export default function Sidebar1() {
           <div className="sidebar-header">
             <div className="logo-container">
             <img 
-            src="/cortana-microsoft.ico" 
+            src="https://cdn.iconscout.com/icon/free/png-128/free-cortana-logo-icon-download-in-svg-png-gif-file-formats--microsoft-brand-logos-pack-icons-226411.png?f=webp" 
             alt="Logo Cortana" 
             className="logo-image" 
             />
