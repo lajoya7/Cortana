@@ -34,7 +34,9 @@ export default function Sidebar1() {
               </li>
               <li>
                 <i className="pi pi-user"></i>
-                <Link to="/perfil">Perfil</Link>
+                <a href="https://lajoya7.github.io/portafolio_cortana/" target="_blank" rel="noopener noreferrer">
+                  Portafolio
+                </a>
               </li>
               <li>
                 <i className="pi pi-comments"></i>
